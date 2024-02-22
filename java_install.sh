@@ -11,3 +11,5 @@ if [ $new_version == $java_version ]; then
 else
 	dnf install $java_update
 fi
+
+#test
